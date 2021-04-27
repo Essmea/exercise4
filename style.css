@@ -1,0 +1,29 @@
+.loggo { 
+    padding-right: 55%;
+}
+.nav {
+    height:120px;
+    background-color: black;
+    padding: 20px;
+}
+
+.nav-item {
+    padding-top:20px;
+}
+
+.btn {
+    margin-top: 15px;
+    margin-right: 40px;
+    height: 52px;
+    background-color: rgb(255, 32, 155);
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0.5px;
+    border:none;
+    transition: box-shadow .3s ease-in-out;
+}
+
+.btn:hover {
+    background: linear-gradient(to right, #ffa43d, #ff3377);
+    transition: box-shadow .3s ease-in-out;
+}
